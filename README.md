@@ -36,7 +36,7 @@ Utilize Colab to interact with the software program
 
 !["Google Colab Labs Example"](https://www.tutorialspoint.com/google_colab/images/colab_search.jpg)
 
-**Key example code for googel colab data upload**
+**Key example code for google colab data upload**
 ```
 # Upload the "google_hourly_search_trends.csv" file into Colab, then store in a Pandas DataFrame
 # Set the "Date" column as the Datetime Index.
