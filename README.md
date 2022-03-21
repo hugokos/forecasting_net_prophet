@@ -34,7 +34,7 @@ Run this program in google colab research and install the required libraries usi
 
 Utilize Colab to interact with the software program
 
-!["Google Colab Labs Example"](https://workspace.google.com/marketplace/app/colaboratory/1014160490159)
+!["Google Colab Labs Example"](https://www.tutorialspoint.com/google_colab/images/colab_search.jpg)
 
 **Key example code for googel colab data upload**
 ```
